@@ -1,0 +1,25 @@
+#login_button{
+    background:rgb(241, 188, 255);
+    font-family: cursive;
+    color:crimson; 
+}
+body{
+
+    text-align: right;
+    font-family: cursive;
+    font-size:larger;
+    background-color:lightcyan;
+}
+
+.login_div{
+    margin:auto;
+}
+
+#image1{
+    height: 50px;
+    width: 50px;
+}
+#image2{
+    height: 50px;
+    width: 60px;
+}
